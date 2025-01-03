@@ -109,6 +109,8 @@ Draw a flow chart reflecting the steps of a ML practitioner. Where do you see yo
 
 ## [Post-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/8/)
 
+[Quiz-1](quiz-1.md)
+
 ## Review & Self Study
 
 Search online for interviews with data scientists who discuss their daily work. Here is [one](https://www.youtube.com/watch?v=Z3IjgbbCEfs).
